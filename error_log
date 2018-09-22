@@ -1,0 +1,1 @@
+[14-Sep-2018 02:18:42 UTC] PHP Warning:  hash_equals(): Expected known_string to be a string, null given in /home/csrookie/public_html/remember.php on line 24
